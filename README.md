@@ -1,4 +1,4 @@
-**This code contains a lot of explanations fro every detail**
+**This code contains explanations for every detail**
 
 To detect bias we can use different methods. 
 here we try to detect bias, based on gender.
